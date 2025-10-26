@@ -1,0 +1,6 @@
+yfinance 
+alpha_vantage 
+pandas 
+numpy 
+logging
+python-dotenv
