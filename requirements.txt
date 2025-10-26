@@ -4,3 +4,4 @@ pandas
 numpy 
 logging
 python-dotenv
+lxml
