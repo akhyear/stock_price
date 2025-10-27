@@ -5,3 +5,4 @@ numpy
 logging
 python-dotenv
 lxml
+matplotlib
